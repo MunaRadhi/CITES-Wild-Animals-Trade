@@ -98,3 +98,7 @@ This project analyzes CITES trade data to identify trends, key species, major tr
 
 ## Data Source
 - **CITES Trade Database:** [https://trade.cites.org/](https://trade.cites.org/)  
+
+
+[View the interactive presentation on Canva](https://www.canva.com/design/DAG0VgOImHM/BN46uYJL6zKuoJq2BYU48w/view?utm_content=DAG0VgOImHM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38db3a5edf)
+
