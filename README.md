@@ -17,31 +17,70 @@ This project analyzes CITES trade data to identify trends, key species, major tr
 - **Highlight Ethical Concerns:** Focus on trophy hunting and high-risk transactions.  
 - **Provide Practical Insights:** Support sustainable and ethical wildlife trade management.
 
-## Key Findings & Insights
-1. **Trade Volumes and Trends**  
-   - Global trade is relatively stable with slight decrease over 2019–2023.  
-   - **Reptiles** are most traded, followed by Corals, Mammals, Birds, and Sharks & Rays.  
-   - Most trades involve **Manufactured Products (36.8%)**, **Live Specimens (33.5%)**, and **Raw Body Parts (21.5%)**.  
-   - **Commercial purposes** dominate (68.8%), while hunting trophies account for 12.6%.  
-   - **Arab countries contribute 8.1% of global trade** as exporters or importers.
+### 1. Trade Volumes and Trends
+- Global trade levels of wild-sourced animals are relatively stable, with a slight decrease over the five years (2019–2023).  
+- **Reptiles** are the most traded group, followed by **Corals**, **Mammals**, **Birds**, and **Sharks & Rays**.  
+- Transaction types show that most trades involve **Manufactured Products (36.8%)**, **Live Specimens (33.5%)**, and **Raw Body Parts (21.5%)**, while Food Products and Processed Materials are minor contributors.  
+- **Commercial purposes** dominate the trade (**68.8%**), whereas **hunting trophies** account for **12.6%** of total transactions.  
+- **Arab countries are involved in 8.1% of global trade** either as exporters or importers.  
+- **Bahrain's trade** is largely medium risk (**94%**), with Critical (**4%**), High (**1%**), and Low (**1%**) risk transactions.  
 
-2. **Key Species and Leading Countries**  
-   - Top species: **American Alligator, Asian Water Monitor, Asian Python, Nile Monitor, Lama Vicugna**.  
-   - **United States** is the largest importer; **Indonesia and Australia** are the largest exporters.  
-   - **Arab countries (UAE, Kuwait, Qatar, Saudi Arabia, Oman)** are active exporters.
+**Insight:** Global trade is substantial and concentrated in specific animal groups and transaction types, and Arab countries contribute a measurable share, highlighting stable demand patterns with slight decreases. Bahrain follows the same risk pattern as global trends, predominantly medium risk.
 
-3. **Distribution of Trade Pressures**  
-   - Trade pressure is concentrated on certain species and origin countries.  
-   - **American Alligator** represents 8% of global trade; Mammals face highest pressure from trophy hunting.  
-   - Key origin countries: Indonesia, Australia, United States, Canada, South Africa; Arab region trade is localized but significant for specific species.
+---
 
-4. **Risk Assessment**  
-   - Majority of transactions are **Medium risk (85%)**, **Critical risk 5%**, **High risk 2%**.  
-   - Risk is concentrated among high-volume exporters and high-demand species, including in the Arab world.
+### 2. Key Animals and Leading Countries
+- Top traded species include **American Alligator**, **Asian Water Monitor**, **Asian Python**, **Nile Monitor**, and **Lama Vicugna**.  
+- The **United States** is the largest importer, while **Indonesia and Australia** are the largest exporters.  
+- **Arab countries such as UAE, Kuwait, Qatar, Saudi Arabia, and Oman are active exporters**, contributing to regional trade dynamics and demonstrating their role in the global wildlife trade.  
+- **Bahrain imports** top species:  
+  - **American Alligator (57 transactions)**  
+  - **Asian Water Monitor (34)**  
+  - **Asian Python (26)**  
+  - **Nile Monitor (18)**  
+  - **Stony Corals (13)**  
+- **Bahrain's top exports** include:  
+  - **American Alligator (9)**  
+  - **Asian Water Monitor (4)**  
+  - **Asian Python (3)**  
+  - **Nile Crocodile (3)**  
+  - **Black-headed Parrot (2)**  
 
-5. **Ethical Considerations**  
-   - Trophy hunting heavily impacts mammals (91.4% of hunting trophy transactions).  
-   - Species under high ethical concern: **African Elephant, Hippopotamus, Chacma Baboon, Giraffe, Nile Crocodile, American Alligator**.
+**Insight:** Trade is concentrated in a few species and leading countries, including key Arab exporters. Bahrain shows measurable activity in both imports and exports, indicating its contribution to regional trade dynamics.
+
+---
+
+### 3. Distribution of Trade Pressures
+- **Reptiles experience strong commercial demand**, particularly for leather products and live specimens.  
+- **American Alligator alone represents 8% of total global trade**, indicating significant pressure on this species.  
+- **Mammals face the highest pressure from trophy hunting**, especially elephants, hippos, large primates, and crocodiles.  
+- Trade pressure is uneven globally, with key origin countries like **Indonesia, Australia, United States, Canada, and South Africa** carrying disproportionately high volumes and environmental sensitivity.  
+- In the **Arab world, species like American Alligator, Nile Monitor, and Asian Python are the most traded**, highlighting localized pressure even in low-volume regional markets.  
+- **In Bahrain**, reptiles dominate trade pressure with American Alligator and Nile Monitor at the top, followed by Asian Python and Asian Water Monitor. Stony corals also contribute to pressure on marine species.  
+
+**Insight:** Trade and environmental pressure are concentrated among certain species and origin countries, including Arab regions and Bahrain specifically, emphasizing areas where species are at risk of overexploitation.
+
+---
+
+### 4. Risk Assessment
+- Most transactions occur under **Medium risk (85%)**, while **Critical risk represents 5%** and **High risk 2%**.  
+- Risk is concentrated among **high-volume exporters** and **high-demand species**, requiring targeted monitoring.  
+- Arabian world trade shows similar risk patterns, with 85% of transactions Medium risk, 5% Critical, and 2% High, highlighting that trade within or through Arab countries follows global risk trends.  
+- **Bahrain mirrors this distribution**, with Medium risk (**94%**), Critical (**4%**), High (**1%**), and Low (**1%**) transactions.  
+
+**Insight:** The distribution of risk percentages indicates priority areas for monitoring, particularly in regions with high trade volumes or sensitive species. Bahrain’s trade aligns closely with global and regional risk patterns.
+
+---
+
+### 5. Ethical Considerations
+- **91.4% of hunting trophy transactions involve mammals**, reflecting substantial pressure on this group.  
+- **Trophy hunting accounts for 49% of mammal trade**, raising ethical concerns about recreational or personal hunting.  
+- Species most affected include **African Elephant, Hippopotamus, Chacma Baboon, Giraffe, and Nile Crocodile**.  
+- **American Alligator, elephants, and hippos are under disproportionate trade pressure** due to both commercial and trophy hunting.  
+- **Bahrain’s trophy hunting share is 0.12%**, whereas the wider **Arab countries account for 2.31%** of trophy trade transactions, showing that the region participates in hunting activities but at relatively low levels.  
+
+**Insight:** Trophy hunting and high-volume commercial trade raise ethical and conservation concerns, particularly for mammals and specific high-demand species. Bahrain contributes a minor share to regional trophy hunting, but monitoring is still essential for species protection.
+
 
 ## Recommendations
 - Strengthen monitoring and transparency in trade.  
